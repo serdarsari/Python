@@ -1,4 +1,5 @@
 print("2.Dereceden Bir Denklemin Kökünü Bulma")
+#y=ax^2+bx+c
 
 a=int(input("a : "))
 b=int(input("b : "))
