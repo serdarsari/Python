@@ -1,1 +1,7 @@
-Girilen ölçülere göre, kullanıcının girdiği değerlere bakarak hangi özel şekil olduğunu(Kare, Dikdörtgen, İkizkenar Üçgen, Eşkenar Üçgen) bulan program.
+Girilen Ã¶lÃ§Ã¼lere gÃ¶re, kullanÄ±cÄ±nÄ±n girdiÄŸi deÄŸerlere bakarak hangi Ã¶zel ÅŸekil olduÄŸunu(Kare, DikdÃ¶rtgen, Ä°kizkenar ÃœÃ§gen, EÅŸkenar ÃœÃ§gen) 
+bulan program.
+
+
+
+
+
