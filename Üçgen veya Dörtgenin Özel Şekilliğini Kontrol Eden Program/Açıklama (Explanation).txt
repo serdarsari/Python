@@ -1,0 +1,1 @@
+Girilen ölçülere göre, kullanýcýnýn girdiði deðerlere bakarak hangi özel þekil olduðunu(Kare, Dikdörtgen, Ýkizkenar Üçgen, Eþkenar Üçgen) bulan program.
