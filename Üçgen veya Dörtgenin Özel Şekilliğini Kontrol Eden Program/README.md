@@ -3,3 +3,4 @@ Girilen ölçülere göre, kullanıcının girdiği değerlere bakarak hangi öz
 bulan program.
 
 **Eğer üçgen olma özelliği taşımıyorsa Hata veriyor.
+
