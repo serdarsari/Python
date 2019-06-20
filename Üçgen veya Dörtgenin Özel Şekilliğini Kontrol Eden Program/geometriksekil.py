@@ -14,7 +14,7 @@ if girdi =="1":
     z=int(input("3.Kenarı girin : "))
 
     if (abs(y-z)<x and x<y+z) and (abs(x-z)<y and y<x+z) and (abs(x-y)<z and z<x+y):
-        if x==y or x==z or y==z:
+        if (x==y and x!=z) or (x==z and x!=y) or (y==z and y!=x):
             print("Bu üçgen İkizkenar'dır.")
         elif x==y==z:
             print("Bu üçgen Eşkenar'dır.")
