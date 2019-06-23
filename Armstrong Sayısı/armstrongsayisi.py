@@ -1,5 +1,5 @@
 while True:
-    girdi=input("Sayı girin : ")
+    girdi=input("Sayı girin (Çıkmak için 'q' ya basın.) : ")
 
     if girdi=="q":
         break
