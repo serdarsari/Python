@@ -1,0 +1,11 @@
+﻿Fernando Muslera,Galatasaray
+Ryan Babel,Galatasaray
+Ozan Tufan,Fenerbahçe
+Yuto Nagatomo,Galatasaray
+Oğuzhan Özyakup,Beşiktaş
+Volkan Demirel,Fenerbahçe
+Mariano,Galatasaray
+Mehmet Topal,Fenerbahçe
+Quaresma,Beşiktaş
+Burak Yılmaz,Beşiktaş
+Harun Tekin,Fenerbahçe
