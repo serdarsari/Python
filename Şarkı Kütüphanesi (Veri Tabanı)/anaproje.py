@@ -18,7 +18,7 @@ while True:
     if (girdi=="q"):
         break
     elif (girdi == "1"):
-        sarkikutuphanesi.toplamSarkiSuresi()
+        sarkikutuphanesi.ToplamSarkiSuresi()
     elif (girdi == "2"):
         isim=input("Şarkı İsmi : ")
         sanatci= input("Sanatçı : ")
@@ -40,7 +40,7 @@ while True:
         sarkikutuphanesi.SarkilariGoster()
     elif (girdi=="5"):
         print("Tüm Şarkılar Siliniyor...")
-        sarkikutuphanesi.sarkilariSil()
+        sarkikutuphanesi.SarkilariSil()
         time.sleep(2)
         print("Tüm Şarkılar Silindi!")
     else:

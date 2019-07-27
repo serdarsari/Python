@@ -15,9 +15,9 @@ class Sarki():
     
 class SarkiKutuphanesi():
     def __init__(self):
-        self.veritabaninaBaglan()
+        self.VeritabaninaBaglan()
     
-    def veritabaninaBaglan(self):
+    def VeritabaninaBaglan(self):
         self.baglanti=sqlite3.connect("kutuphane.db")
         self.cursor=self.baglanti.cursor()
 
@@ -25,10 +25,10 @@ class SarkiKutuphanesi():
         self.cursor.execute(sorgu)
         self.baglanti.commit()
     
-    def baglantiyiKes(self):
+    def BaglantiyiKes(self):
         self.baglanti.close()
     
-    def toplamSarkiSuresi(self):
+    def ToplamSarkiSuresi(self):
         sorgu = "SELECT * FROM sarkilar"
 
         self.cursor.execute(sorgu)
@@ -73,7 +73,7 @@ class SarkiKutuphanesi():
 
                 print(sarki)
     
-    def sarkilariSil(self):
+    def SarkilariSil(self):
         sorgu = "DELETE FROM sarkilar"
         self.cursor.execute(sorgu)
         self.baglanti.commit()
