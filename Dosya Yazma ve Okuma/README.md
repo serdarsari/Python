@@ -1,5 +1,5 @@
 # Dosyaya Yazma ve Dosyadan Okuma
-Futbolcu isimlerinin karışık olduğu bir .txt dosyasındaki isimleri ve takımları alıp, hangi takıma ait ise onun .txt'sine kaydeden program.
+Futbolcu isimlerinin karışık olduğu  futbolcular.txt dosyasındaki isimleri ve takımları alıp, hangi takıma ait ise onun .txt'sine kaydeden program.
 Örneğin;
 Fernando Muslera,Galatasaray
 
