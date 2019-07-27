@@ -16,7 +16,7 @@ sarkikutuphanesi=SarkiKutuphanesi()
 while True:
     girdi = input("Seçiniz : ")
     if (girdi=="q"):
-	    sarkikutuphanesi.BaglantiyiKes()
+	sarkikutuphanesi.BaglantiyiKes()
         break
     elif (girdi == "1"):
         sarkikutuphanesi.ToplamSarkiSuresi()
