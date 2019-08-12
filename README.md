@@ -1,3 +1,3 @@
 # Python
-Exercises of Python
-Python Egzersizleri
+* Exercises of Python
+* Python Egzersizleri
