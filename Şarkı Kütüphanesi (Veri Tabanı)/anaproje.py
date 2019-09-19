@@ -10,7 +10,7 @@ print("""**********************
 4. Listeyi Görüntüle
 5. Tüm Şarkıları Sil
 **********************""")
-
+#Sleep komutları görsel açıdan daha gerçekçi gözükmesi için eklenmiştir. :)
 sarkikutuphanesi=SarkiKutuphanesi()
 
 while True:
