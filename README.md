@@ -1,3 +1,2 @@
 # Python
-* Exercises of Python
-* Python Egzersizleri
+* Python Programlama Dili ile yazdığım örnekler ve alıştırmalar.
